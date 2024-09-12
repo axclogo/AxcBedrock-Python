@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+axc_bedrock/__init__.py
+axc_bedrock/url_ex.py
+axc_bedrock.egg-info/PKG-INFO
+axc_bedrock.egg-info/SOURCES.txt
+axc_bedrock.egg-info/dependency_links.txt
+axc_bedrock.egg-info/top_level.txt
